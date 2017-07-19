@@ -70,6 +70,8 @@ gem 'intercom-rails'
 # PayPal 串接
 gem 'braintree'
 
+ruby '2.3.1'
+
 group :development, :test do
   # Debug 工具
   gem 'byebug', platform: :mri
