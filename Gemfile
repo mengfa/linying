@@ -61,7 +61,7 @@ gem 'mini_magick'
 gem 'aasm'
 
 # AWS
-gem 'fog-aws'
+# gem 'fog-aws'
 gem 'figaro'
 
 # Intercom 客服系統
