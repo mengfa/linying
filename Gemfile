@@ -54,14 +54,14 @@ gem 'seo_helper'
 gem 'ransack'
 
 # 圖片功能
-gem 'carrierwave'
+
 gem 'mini_magick'
 
 # 訂單狀態
 gem 'aasm'
 
 # AWS
-# gem 'fog-aws'
+
 gem 'figaro'
 
 # Intercom 客服系統
